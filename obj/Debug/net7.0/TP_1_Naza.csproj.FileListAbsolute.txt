@@ -1,0 +1,14 @@
+C:\Users\PC\OneDrive\Programacion\Neoris\TP_1_Naza\TP_1_Naza\bin\Debug\net7.0\TP_1_Naza.exe
+C:\Users\PC\OneDrive\Programacion\Neoris\TP_1_Naza\TP_1_Naza\bin\Debug\net7.0\TP_1_Naza.deps.json
+C:\Users\PC\OneDrive\Programacion\Neoris\TP_1_Naza\TP_1_Naza\bin\Debug\net7.0\TP_1_Naza.runtimeconfig.json
+C:\Users\PC\OneDrive\Programacion\Neoris\TP_1_Naza\TP_1_Naza\bin\Debug\net7.0\TP_1_Naza.dll
+C:\Users\PC\OneDrive\Programacion\Neoris\TP_1_Naza\TP_1_Naza\bin\Debug\net7.0\TP_1_Naza.pdb
+C:\Users\PC\OneDrive\Programacion\Neoris\TP_1_Naza\TP_1_Naza\obj\Debug\net7.0\TP_1_Naza.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\OneDrive\Programacion\Neoris\TP_1_Naza\TP_1_Naza\obj\Debug\net7.0\TP_1_Naza.AssemblyInfoInputs.cache
+C:\Users\PC\OneDrive\Programacion\Neoris\TP_1_Naza\TP_1_Naza\obj\Debug\net7.0\TP_1_Naza.AssemblyInfo.cs
+C:\Users\PC\OneDrive\Programacion\Neoris\TP_1_Naza\TP_1_Naza\obj\Debug\net7.0\TP_1_Naza.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Programacion\Neoris\TP_1_Naza\TP_1_Naza\obj\Debug\net7.0\TP_1_Naza.dll
+C:\Users\PC\OneDrive\Programacion\Neoris\TP_1_Naza\TP_1_Naza\obj\Debug\net7.0\refint\TP_1_Naza.dll
+C:\Users\PC\OneDrive\Programacion\Neoris\TP_1_Naza\TP_1_Naza\obj\Debug\net7.0\TP_1_Naza.pdb
+C:\Users\PC\OneDrive\Programacion\Neoris\TP_1_Naza\TP_1_Naza\obj\Debug\net7.0\TP_1_Naza.genruntimeconfig.cache
+C:\Users\PC\OneDrive\Programacion\Neoris\TP_1_Naza\TP_1_Naza\obj\Debug\net7.0\ref\TP_1_Naza.dll
